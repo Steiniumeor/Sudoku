@@ -1,0 +1,3 @@
+  These work was done by Ngongang DIRANE  ET20200053 and Tang Enow  ET20201012.In the folder Calcu is our Quadratic calculator.
+In the folder soduku.vbproj is our sudoku game.
+All other folders are things we joined together to bring forth this working game.
